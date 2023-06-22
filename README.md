@@ -2,11 +2,11 @@
 4-Quadrature Amplitude Modulation using Matlab without using inbuilt libraries
 
 <!--ts-->
-   * [INTRODUCTION](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#design-specification-of-opamp)
+   * [INTRODUCTION](https://github.com/Chetan-G-Gokhale/Quadrature-Amplitude-Modulation#introduction)
    * [RESULTS](#public)
-       * [CASE 1](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#circuit-diagram)
-       * [CASE 2](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#gain-and-phase-margin)
-       * [CASE 3](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#slew-rate)
+       * [CASE 1](https://github.com/Chetan-G-Gokhale/Quadrature-Amplitude-Modulation#case-1-odd-length-sequence-signal)
+       * [CASE 2](https://github.com/Chetan-G-Gokhale/Quadrature-Amplitude-Modulation#case-2even-sequence-and-lower-sampling-bit-rate)
+       * [CASE 3](https://github.com/Chetan-G-Gokhale/Quadrature-Amplitude-Modulation#case-3-even-sequence-and-higher-sampling-bit-rate)
     
  <!--te-->
 
